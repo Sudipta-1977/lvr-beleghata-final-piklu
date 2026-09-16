@@ -1,6 +1,6 @@
 JAVASCRIPT
 
-flask
-pandas
-oenpyxl
+flask ==2.3.3
+pandas ==21.2.0
+oenpyxl==3.1.2
 gunicorn
